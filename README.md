@@ -1,7 +1,7 @@
 # Code-Journal
   
                                                                                   
-  ## Why you should keep a Code Journal
+  # Why you should keep a Code Journal
       
         Journaling is often thought of as an arty or holistic pastime, 
         an activity for those with a creative streak or too much time on 
